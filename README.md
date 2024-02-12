@@ -41,6 +41,7 @@ a new or editing an existing record. In case of incorrect input, you will receiv
 This project is designed to organize and manage your contact details, notes, and files as easy as possible.
 - **Sorting files in a folder**: Automatic files sorting in a specified folder by category, such as images, documents,
 videos, etc.
+
 ____
 
 # Installation
